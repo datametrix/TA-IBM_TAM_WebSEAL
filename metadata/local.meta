@@ -1,0 +1,14 @@
+[eventtypes/webseal_Events]
+owner = admin
+version = 6.4.3
+modtime = 1473678395.100629000
+
+[props/webseal]
+owner = admin
+version = 6.4.3
+modtime = 1473682268.510572000
+
+[tags/eventtype%3Dwebseal_Events]
+owner = admin
+version = 6.4.3
+modtime = 1473682268.798954000
